@@ -40,5 +40,5 @@ gr.Interface(
     examples=examples,
     inputs=["text", "state"],
     outputs=["chatbot", "state"],
-    theme='freddyaboulton/dracula_revamped',
+    theme='finlaymacklon/smooth_slate',
 ).launch()
